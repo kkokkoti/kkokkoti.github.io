@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', function () {
         '클린 코드',
         '리팩토링',
         '코딩 인터뷰 완전 분석',
-        '더글라스 애덤스의 은하수를 여행하는 히치하이커를 위한 안내서'
+        '더글라스 애덤스의 은하수를 여행하는 히치하이커를 위한 안내서',
+        '노르웨이의 숲'
     ];
 
     const bookListElement = document.getElementById('book-list');
